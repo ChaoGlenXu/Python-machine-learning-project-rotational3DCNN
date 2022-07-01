@@ -2,7 +2,7 @@
 The project is completed as a part of APS360: Introduction to Machine Learning course offered by the University of Toronto in Fall 2020. The project was done exclusively by Christopher Agia, Polina Govorkova, YiFei Tang and Chao Glen Xu.
 
 
-For the detailed description of the project and its results please see the [Project Report](https://github.com/agiachris/rotational3DCNN/blob/main/project_description_and_results/ProjectReport.pdf).
+For the detailed description of the project and its results please see the [Project Report](https://github.com/ChaoGlenXu/Python-machine-learning-project-rotational3DCNN/blob/main/project_description_and_results/ProjectReport.pdf).
 
 ## Goal and motivation
 Recent years have brought forth various technologies that depend heavily on sensing capabilities via software. Examples include autonomous driving, robotic manufacturing, and augmented reality. A commonality amongst these tasks is that they require some form of interaction with the 3D world (e.g. virtual or physical), but must operate on sensor information that is inherently an incomplete representation (e.g. 2D images, 2D depth maps, sparse 3D point clouds). 
